@@ -1,0 +1,34 @@
+.storyh2{
+    letter-spacing:5px;
+
+    /* margin-right: 5%; */
+}
+
+.img{
+    width: 25%;
+}
+
+@media (min-width: 1200px){
+.cardmargin{
+    margin-right: 3%;
+}
+}
+
+.storytext{
+width: 90%;
+margin-left: 5%;}
+
+
+
+.missiontitle{
+    font-size: 30px;
+    margin-left: 2%
+}
+
+@media (max-width: 767px){
+
+    .img{
+        width: 13%;
+    }
+
+}
